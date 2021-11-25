@@ -1,0 +1,3 @@
+include ':helpLibrary'
+include ':app'
+rootProject.name = "HelpLibraryX"
